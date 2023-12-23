@@ -40,7 +40,7 @@ class Bot(BotBase):
 			print("Bot ready!")
 
 			channel = self.get_channel(1187725789307863133)
-			await channel.send("Now Online! Owner Sleep now!")
+			await channel.send("Now Online! <@987016559794987059> Sleep now!")
 
 		else:
 			print("Bot reconnected")
