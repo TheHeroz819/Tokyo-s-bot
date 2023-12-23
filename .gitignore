@@ -1,4 +1,6 @@
-lib\bot\token.0
 *.db
 *.db-journel
+lib/bot/token.0
 __pycache__
+*.pyc
+
